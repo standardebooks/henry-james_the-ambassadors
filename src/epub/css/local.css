@@ -10,6 +10,6 @@ q{
 	font-style: italic;
 }
 
-.no-italics{
+q em{
 	font-style: normal;
 }
