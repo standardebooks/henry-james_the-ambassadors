@@ -46,6 +46,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100590</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">27</meta>
 		<dc:description id="description">A middle-aged man travels to France to attempt to convince a younger man to return to America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Lambert Strether, a middle-aged man is sent to Paris by his wealthy wife-to-be in order to convince her son Chad to return home to America and take over the lucrative family business. This turns out to be much easier said than done when Strether finds Chad much better adapted to European life than anyone expected.&lt;/p&gt;
