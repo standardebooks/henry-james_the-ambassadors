@@ -13,3 +13,7 @@ q{
 q em{
 	font-style: normal;
 }
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
