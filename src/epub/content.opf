@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-james/the-ambassadors</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-11-15T01:44:06Z</dc:date>
+		<meta property="dcterms:modified">2021-11-15T01:44:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -45,27 +44,23 @@
 		<meta property="term" refines="#subject-4">sh2008107175</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100590</meta>
-		<meta property="se:subject">Drama</meta>
-		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">27</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A middle-aged man travels to France to attempt to convince a younger man to return to America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Lambert Strether, a middle-aged man is sent to Paris by his wealthy wife-to-be in order to convince her son Chad to return home to America and take over the lucrative family business. This turns out to be much easier said than done when Strether finds Chad much better adapted to European life than anyone expected.&lt;/p&gt;
-			&lt;p&gt;Utilizing often long, complex structures, the variety of language is matched by a cast of very subtle characters who rarely say exactly what they mean. Widely regarded as one of &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt;’ best (not to mention most challenging) novels, &lt;i&gt;The Ambassadors&lt;/i&gt; explores themes of love, duty, and aging; all told through the eyes of a man who wonders if life hasn’t passed him by.&lt;/p&gt;
-			&lt;p&gt;This ebook follows the 1909 New York Edition, which includes a preface by the author. Since 1950 however, it has been generally agreed that the NYE had incorrectly ordered the first two chapters of “Book XI.” This text follows the convention of most printings since that time, and the chapters have been returned to what is believed to have been James’ intended order.&lt;/p&gt;
+			&lt;p&gt;A middle-aged man named Lambert Strether is sent to Paris by his wealthy wife-to-be in order to convince her son Chad to return home to America and take over the lucrative family business. This turns out to be much easier said than done, as Strether finds Chad much better adapted to European life than anyone expected.&lt;/p&gt;
+			&lt;p&gt;James’ characteristically dense prose is matched by a cast of subtly-realized characters who rarely say exactly what they mean. Widely regarded as one of &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;James’&lt;/a&gt; best novels, &lt;i&gt;The Ambassadors&lt;/i&gt; explores themes of love, duty, and aging, all told through the eyes of a man who wonders if life hasn’t passed him by.&lt;/p&gt;
+			&lt;p&gt;This ebook follows the 1909 New York Edition, with one important exception: Since 1950, it has been generally agreed that the New York Edition had incorrectly ordered the first two chapters of Book Eleven. This text follows the convention of most printings since then, and the chapters have been returned to what is believed to have been James’ intended order.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/432</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007684049</dc:source>
 		<meta property="se:production-notes">In the 1909 New York Edition Chapters I and II in “Book XI” were reversed. Since 1950, most scholars have agreed, because of the internal evidence of the two chapters, that an editorial error caused them to be printed in reverse order. This Etext corrects the apparent error.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">168595</meta>
+		<meta property="se:reading-ease.flesch">70.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Ambassadors</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-james_the-ambassadors</meta>
 		<dc:creator id="author">Henry James</dc:creator>
 		<meta property="file-as" refines="#author">James, Henry</meta>
-		<meta property="se:name.person.full-name" refines="#author">Henry James OM</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_James</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78091982</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -90,6 +85,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
