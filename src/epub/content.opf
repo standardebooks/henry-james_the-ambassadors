@@ -75,8 +75,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Richard D. Hathaway</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hathaway, Richard D.</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Julia P. DeRanek</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">DeRanek, Julia P.</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
