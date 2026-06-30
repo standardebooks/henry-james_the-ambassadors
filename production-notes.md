@@ -1,0 +1,1 @@
+In the 1909 New York Edition Chapters I and II in “Book XI” were reversed. Since 1950, most scholars have agreed, because of the internal evidence of the two chapters, that an editorial error caused them to be printed in reverse order. This Etext corrects the apparent error.
